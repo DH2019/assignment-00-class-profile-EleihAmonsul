@@ -1,14 +1,14 @@
 {
-  "firstName": "Ezra",
-  "lastName": "Fleisch",
-  "nickName": "EleihAmonsul",
+  "firstName": "A",
+  "lastName": "Student",
+  "nickName": "Keener",
   "privateName": false,
   "picture": "images/template.jpg",
   "privatePicture": false,
-  "email": "ezra.fleisch@mail.utoronto.ca",
+  "email": "student@mail.utoronto.ca",
   "privateEmail": false,
-  "github": "EleihAmonsul",
+  "github": "uoftstudent",
   "privateGithub": false,
-  "superpower" : "Extreme Luck",
-  "academicinterests": "Online communities, Non-European History, Overwatch"
+  "superpower" : "late night cramming",
+  "academicinterests": "I'm supposed to have interests?"
 }

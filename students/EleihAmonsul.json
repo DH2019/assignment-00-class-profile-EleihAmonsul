@@ -1,0 +1,14 @@
+{
+  "firstName": "Ezra",
+  "lastName": "Fleisch",
+  "nickName": "",
+  "privateName": false,
+  "picture": "images/EleihAmonsul.jpg",
+  "privatePicture": false,
+  "email": "ezra.fleisch@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "EleihAmonsul",
+  "privateGithub": false,
+  "superpower" : "Extreme Luck",
+  "academicinterests": "Online communities, Non-European History, Overwatch"
+}
